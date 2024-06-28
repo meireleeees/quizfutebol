@@ -49,10 +49,10 @@ const q2 = {
 const q3 = {
     numQuestao   : 3,
     pergunta     : "Quem torce pro São Paulo é o que?",
-    alternativaA : "Desempregado",
-    alternativaB : "Muambeiro",
+    alternativaA : "Palmeirense",
+    alternativaB : "Corintiano",
     alternativaC : "São paulino",
-    correta      : "Muambeiro",
+    correta      : "Santista",
 }
 
 const q4 = {
